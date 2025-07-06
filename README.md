@@ -32,7 +32,7 @@
 ### 🎯 **About Me**
 
 - 🎓 **3rd Year B.Tech CSE** (Artificial Intelligence & Machine Learning Specialization)
-- ☁️ Completed internships with NIT Calicut and EduSkills
+- ☁️ Completed internships with EduSkills
 - 🤖 **AI Enthusiast** - Machine Learning, Deep Learning, Computer Vision
 - 🐍 **Python Developer** - Automation, Data Science, Backend APIs
 - 🌐 **Full-Stack Developer** - MERN Stack, TypeScript, React, Node.js

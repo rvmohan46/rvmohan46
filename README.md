@@ -27,7 +27,8 @@
 
 ## 🧠 Student Profile & Learning Journey
 
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Neural Network" width="450" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
 
 ### 🎯 **About Me**
 
